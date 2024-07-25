@@ -1,0 +1,6 @@
+# system
+/build
+node_modules
+
+# enviroment 
+.env.*
