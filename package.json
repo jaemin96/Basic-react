@@ -24,5 +24,9 @@
     "url": "https://github.com/jaemin96/Basic-react/issues"
   },
   "homepage": "https://github.com/jaemin96/Basic-react#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
 }
