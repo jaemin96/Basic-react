@@ -1,6 +1,8 @@
 # system
 /build
 node_modules
+dist/
 
 # enviroment 
 .env.*
+
