@@ -26,6 +26,9 @@
   "homepage": "https://github.com/jaemin96/Basic-react#readme",
   "dependencies": {},
   "devDependencies": {
+    "@babel/preset-env": "^7.24.8",
+    "@babel/preset-react": "^7.24.7",
+    "babel-loader": "^9.1.3",
     "css-loader": "^7.1.2",
     "style-loader": "^4.0.0",
     "webpack": "^5.93.0",
