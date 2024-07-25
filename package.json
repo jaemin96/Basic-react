@@ -5,7 +5,7 @@
   "main": "index.js",
   "engines": {
     "node": "v20.11.1",
-    "yarn": "v1.22.22"
+    "yarn": "v1.22.18"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,5 @@
     "url": "https://github.com/jaemin96/Basic-react/issues"
   },
   "homepage": "https://github.com/jaemin96/Basic-react#readme",
-  "dependencies": {
-    "yarn": "^1.22.22"
-  }
+  "dependencies": {}
 }
