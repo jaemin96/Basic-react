@@ -1,0 +1,30 @@
+{
+  "name": "basic-react",
+  "version": "1.0.0",
+  "description": "no CRA",
+  "main": "index.js",
+  "engines": {
+    "node": "v20.11.1",
+    "yarn": "v1.22.22"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaemin96/Basic-react.git"
+  },
+  "keywords": [
+    "no",
+    "CRA"
+  ],
+  "author": "jaemin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaemin96/Basic-react/issues"
+  },
+  "homepage": "https://github.com/jaemin96/Basic-react#readme",
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
+}
